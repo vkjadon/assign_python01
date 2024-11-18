@@ -1,9 +1,7 @@
 # Implement the required functions below.
 
 def add_numbers(a, b):
-    # TODO: Implement this function
-    pass
+    return a+b
 
 def multiply_numbers(a, b):
-    # TODO: Implement this function
-    pass
+    return a*b
